@@ -13,7 +13,7 @@ S = "string"
 #Note: here also, 'S' which is a string object
 
 
-print(type(L))  # <class 'list'>
+#print(type(L))  # <class 'list'>
 
 
 
@@ -83,3 +83,5 @@ class Atm():
 
 
 
+
+# %%
